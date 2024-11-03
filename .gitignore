@@ -10,3 +10,5 @@ wheels/
 .venv
 /lines
 src/sandbox.ipynb
+
+*.DS_Store
